@@ -5,6 +5,8 @@ VisualStudioVersion = 17.11.35303.130
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multithreading", "Multithreading\Multithreading.csproj", "{7DCBEA3C-CE0E-435B-B71E-8F2C32598355}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Asynchrony", "Asynchrony\Asynchrony.csproj", "{5164C6D7-74DF-4E7A-B818-0FC829822BD4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{7DCBEA3C-CE0E-435B-B71E-8F2C32598355}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7DCBEA3C-CE0E-435B-B71E-8F2C32598355}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7DCBEA3C-CE0E-435B-B71E-8F2C32598355}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5164C6D7-74DF-4E7A-B818-0FC829822BD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5164C6D7-74DF-4E7A-B818-0FC829822BD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5164C6D7-74DF-4E7A-B818-0FC829822BD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5164C6D7-74DF-4E7A-B818-0FC829822BD4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
