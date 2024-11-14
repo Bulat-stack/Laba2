@@ -49,3 +49,7 @@
 Завершение работы.
 
 
+![image](https://github.com/user-attachments/assets/7962e852-3c36-453c-8837-1aa528cd4a4f)
+
+
+
