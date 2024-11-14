@@ -16,7 +16,7 @@
 ![image](https://github.com/user-attachments/assets/fbfd9256-44d2-46ee-8fb4-fb2196700be0)
 
 
-Краткое объяснение кода по асинхронному программированию:
+Краткое объяснение кода по асинхронному программированию: (https://github.com/Bulat-stack/Laba2/blob/main/Asynchrony/Program.cs)
 1. LongOperationAsync:
    * Эта функция использует await Task.Delay(3000) для имитации длительной операции (3 секунды задержки).
    * Затем она возвращает произвольное значение (10).
